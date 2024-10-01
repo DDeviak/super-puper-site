@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>$uper puper ultra site</h1>
+      <h1>Super puper ultra site</h1>
       <button onClick={() => setCount((count) => count + 1)}>
         count is {count}
       </button>
